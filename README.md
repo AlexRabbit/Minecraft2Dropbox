@@ -23,6 +23,9 @@ Just keep in mind:
 - [x] Step 3: Click on download *"Minecraft2Dropbox.exe"*
 - [x] Step 4: **"Enjoy"**
 
+
+*When used more than one time you have to press "T" in the console to overwrite on dropbox*
+
 ----
 
 ## **Option 2: The source way.**
@@ -33,5 +36,6 @@ Just keep in mind:
 ----
 
 > [Thanks to Chrisl21 for the icons!](https://creativecommons.org/licenses/by-nc-nd/4.0/)
-https://www.kingdomofchris.com/
+> 
+> > https://www.kingdomofchris.com/
 
