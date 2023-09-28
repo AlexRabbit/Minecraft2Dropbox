@@ -1,6 +1,5 @@
 # Minecraft2Dropbox
 ## Make a backup of Minecraft to Dropbox in a double click.
-![Minecraft2Dropbox](https://i.imgur.com/Gw04Arj.png)
 
 ----
 Our most value thing: our ```.minecraft``` folder.
