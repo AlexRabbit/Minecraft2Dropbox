@@ -1,6 +1,3 @@
----
-
-<div align="center">
 
 # 🎮 Minecraft Backup
 
@@ -11,7 +8,6 @@
 [![License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)  
 *Windows · macOS · Linux*
 
-</div>
 
 ---
 
@@ -136,4 +132,5 @@ This project is under the **MIT License**. See [LICENSE](LICENSE) for details.
 *If you found it useful, a ⭐ on GitHub is always appreciated.*
 
 </div>
+
 
