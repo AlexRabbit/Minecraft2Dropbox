@@ -11,6 +11,9 @@
 
 ---
 
+<img width="686" height="510" alt="image" src="https://github.com/user-attachments/assets/57ca8e93-ea8f-41f0-86f5-40b70b0ae53f" />
+
+
 ## 📖 What is this? (In simple words!)
 
 Imagine you have a **treasure chest** 🧳 — your Minecraft world: your **saves**, your **mods**, your **skins**, everything.  
@@ -132,5 +135,6 @@ This project is under the **MIT License**. See [LICENSE](LICENSE) for details.
 *If you found it useful, a ⭐ on GitHub is always appreciated.*
 
 </div>
+
 
 
