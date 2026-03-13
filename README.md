@@ -1,3 +1,4 @@
+If this helped you, consider starring the repo ⭐
 
 # 🎮 Minecraft Backup
 
@@ -135,6 +136,7 @@ This project is under the **MIT License**. See [LICENSE](LICENSE) for details.
 *If you found it useful, a ⭐ on GitHub is always appreciated.*
 
 </div>
+
 
 
 
